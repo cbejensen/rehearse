@@ -1,0 +1,98 @@
+{
+  "glory-to-god-forever": {
+    "id": "K3492834082",
+    "title": "Glory to God Forever",
+    "defaultArrangement": "k123",
+    "arrangements": {
+      "k123": {
+        "name": "Default",
+        "default": true,
+        "created": 1558454935694,
+        "modified": 1558454961739,
+        "sequence": [
+          "INST",
+          "V1",
+          "C",
+          "INST",
+          "V2",
+          "C2",
+          "B",
+          "B",
+          "C3",
+          "C4",
+          "B",
+          "B",
+          "INST"
+        ],
+        "sections": {
+          "INST": {
+            "length": 4,
+            "composition": {
+              "DRUMS": {
+                "desc": "Simple beat, open hi-hat or crashes"
+              }
+            }
+          },
+          "V1": {
+            "length": 8,
+            "composition": {
+              "DRUMS": {
+                "desc": "Simple beat, closed hi-hat"
+              }
+            }
+          },
+          "C": {
+            "length": 8,
+            "composition": {
+              "SYNTH": "Light pad"
+            }
+          },
+          "V2": {
+            "length": 8,
+            "composition": {
+              "DRUMS": {
+                "desc": "V1"
+              }
+            }
+          },
+          "C2": {
+            "length": 8,
+            "composition": {
+              "DRUMS": {
+                "desc": "Simple beat, bigger than verse"
+              }
+            }
+          },
+          "B": {
+            "length": 4,
+            "composition": {
+              "DRUMS": {
+                "desc": "Complex beat, biggest yet"
+              }
+            }
+          },
+          "C3": {
+            "length": 8,
+            "composition": {
+              "DRUMS": {
+                "desc": "First half none, second half slight build"
+              }
+            }
+          },
+          "C4": {
+            "length": 8,
+            "composition": {
+              "DRUMS": {
+                "desc": "C2"
+              }
+            }
+          }
+        }
+      }
+    },
+    "lyrics": {
+      "V1": "Before the world was made\nBefore You spoke it to be",
+      "C": "Glory to God\nGlory to God\nGlory to God forever"
+    }
+  }
+}
